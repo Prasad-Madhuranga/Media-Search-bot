@@ -29,6 +29,10 @@ START_MSG = """
 **Hi, I'm Media Search bot**
 I'm powered by __@sinhagiri_visual_studio__ .
 Here you can search files in inline mode. Just press following buttons and start searching.
+
+** සුභ දවසක්! මම මාධ්‍ය  සෙවීමේ බොට්ය.**
+මාව බලගන්වන්නේ __@sinhagiri_visual_studio__ විසින්ය.
+පහත බොත්තම් භාවිතා කර මාව භාවිත කරන්න.
 """
 
 SHARE_BUTTON_TEXT = 'Checkout {username} for searching files'
