@@ -59,8 +59,8 @@ async def answer(bot, query):
 def get_reply_markup(username):
     url = 't.me/share/url?url=' + quote(SHARE_BUTTON_TEXT.format(username=username))
     buttons = [[
-        InlineKeyboardButton('Search again', switch_inline_query_current_chat=''),
-        InlineKeyboardButton('Share bot', url=url),
+        InlineKeyboardButton('Search again 😅 නැවත සොයන්න', switch_inline_query_current_chat=''),
+        InlineKeyboardButton('Share bot 🤩🥰 බොටාව ශෙයා(ර්) කරන්න.', url=url),
     ]]
     return InlineKeyboardMarkup(buttons)
 
