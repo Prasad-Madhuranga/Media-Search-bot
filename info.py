@@ -33,6 +33,10 @@ Here you can search files in inline mode. Just press following buttons and start
 ** සුභ දවසක්! මම මාධ්‍ය  සෙවීමේ බොට්ය.**
 මාව බලගන්වන්නේ __@sinhagiri_visual_studio__ විසින්ය.
 පහත බොත්තම් භාවිතා කර මාව භාවිත කරන්න.
+
+**Instructions to use:**
+__You can use | to separate query and file type while searching for specific type of file. For example: Avengers | video__
+__ඔබට භාවිතා කළ හැකිය | නිශ්චිත වර්ගයේ ලිපිගොනු සෙවීමේදී විමසුම සහ ගොනු වර්ගය වෙන් කිරීමට. උදාහරණයක් ලෙස: ඇවෙන්ජර්ස් | වීඩියෝ__
 """
 
 SHARE_BUTTON_TEXT = 'Checkout {username} for searching files'
